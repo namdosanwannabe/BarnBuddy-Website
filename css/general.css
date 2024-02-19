@@ -51,6 +51,10 @@
 
 /* HELPER CLASSES */
 
+.text-center {
+  text-align: center;
+}
+
 .margin-right-sm {
   margin-right: 1.6rem !important;
 }
