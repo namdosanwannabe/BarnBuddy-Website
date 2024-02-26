@@ -233,6 +233,10 @@
     width: 40px;
   }
 
+  .logos {
+    padding: 0 2rem;
+  }
+
   .heading-primary {
     font-size: 7.4rem;
   }
