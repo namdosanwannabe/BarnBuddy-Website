@@ -361,7 +361,7 @@ body {
 
 .testimonial-img {
   width: 9rem;
-  box-shadow: 0 0 0 5px #ccded6;
+  box-shadow: 0 0 0 4px #ccded6;
   border-radius: 1000px;
 
   position: absolute;
@@ -391,7 +391,7 @@ body {
 
 /* CTA SECTION */
 .section-cta {
-  padding: 9.6rem 0;
+  padding: 9.6rem 3.2rem;
   text-align: center;
 
   display: flex;
