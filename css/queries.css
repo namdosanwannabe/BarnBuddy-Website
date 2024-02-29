@@ -130,9 +130,11 @@
 @media (max-width: 46em) {
   html {
     /* 9px / 16px =  */
-    /* font-size: 43.75%; */
+    font-size: 43.75%;
   }
-
+  .logo {
+    width: 40px;
+  }
   .futured-in-logo {
     height: 6rem;
   }
