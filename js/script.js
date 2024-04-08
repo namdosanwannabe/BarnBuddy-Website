@@ -7,7 +7,6 @@ const header = document.querySelector(".header");
 const allLinks = document.querySelectorAll("a");
 
 btnMobileNav.addEventListener("click", () => {
-  console.log("Hi");
   header.classList.toggle("nav-open");
 });
 
