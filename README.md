@@ -4,7 +4,7 @@
 
 Thanks for checking out BarnBuddy.
 
-## This is the live version the BarnBuddy
+## This is the live version of the BarnBuddy
 
 DEMO: https://barnbuddy.netlify.app/
 
